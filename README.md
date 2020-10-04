@@ -1,2 +1,2 @@
 # Quoteboard
- Shows awesome quotes using Javascript
+ Quoteboard shows awesome quotes using Javascript. Check out the live demo !
